@@ -1,0 +1,2 @@
+"create column table PAVOOD.HOSTESS_ORDERS_DELIVERY as
+(select * from ""HSB"".""HOSTESS_ORDERS_DELIVERY"");"
