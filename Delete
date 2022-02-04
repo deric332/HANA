@@ -1,1 +1,2 @@
 alter table "HSB"."HOSTESS_ORDERS_DELIVERY" drop (KDKG1);
+
