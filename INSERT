@@ -1,1 +1,2 @@
 INSERT INTO "ZZZ"."table1" SELECT * FROM "AAA"."table1";
+
